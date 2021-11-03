@@ -12,12 +12,7 @@
     <?php 
     }
     elseif (isset($articles)){
-      //  echo "<pre>";
-      // print_r($articles);
-      // echo"</pre>"; 
-      //echo "<pre>";
-      //   print_r($data);
-      //echo"</pre>"; 
+      
       
       if (isset($articles['content'])){
         $donnees = $articles['content'];

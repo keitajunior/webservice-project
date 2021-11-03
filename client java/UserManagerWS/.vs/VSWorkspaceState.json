@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\sn",
+    "\\src\\main\\java\\sn\\mdk",
+    "\\src\\main\\java\\sn\\mdk\\UserManagerWS",
+    "\\src\\main\\resources",
+    "\\src\\test",
+    "\\src\\test\\java",
+    "\\src\\test\\java\\sn",
+    "\\src\\test\\java\\sn\\mdk",
+    "\\src\\test\\java\\sn\\mdk\\UserManagerWS"
+  ],
+  "PreviewInSolutionExplorer": false
+}
